@@ -1,0 +1,9 @@
+#ignore .metadata
+/target
+/.settings
+/.classpath
+/.project
+/.idea
+*.iml
+/.springBeans
+rebel*.xml
